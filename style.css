@@ -1,0 +1,6 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-color: #18181b;
+    color: black;
+}
